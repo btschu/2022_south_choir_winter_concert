@@ -665,12 +665,7 @@ section {
 /*--------------------------------------------------------------
 # Students Section
 --------------------------------------------------------------*/
-/* #students {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-} */
+
 
 #students h4 {
   color: #cda45e; 
